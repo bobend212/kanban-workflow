@@ -7,7 +7,6 @@ html, body {
 }
 
 html {
-    background-image: url('../src/assets/background.svg');
-    background-size: cover;
+    background: linear-gradient(rgb(64, 155, 135), rgb(255, 255, 255));
     overflow-y: auto !important;
 }
